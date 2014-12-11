@@ -1,5 +1,4 @@
-Pojo Explorer
-(Plain Old Java Object Explorer)
+Pojo Explorer (Plain Old Java Object Explorer)
 ============
 
 This class is for graphically exploring objects by calling their "get" and "is" methods that can't be seen during regular eclipse debugging. This is designed for understanding code by looking at the methods that they offer.
